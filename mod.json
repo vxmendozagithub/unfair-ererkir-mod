@@ -1,0 +1,8 @@
+name: "unfair-erekir-mod"
+displayName: "Unfair Erekir mod"
+author: vxmendozagithub
+description: "A .js based erekir mod mostly made to speed up the game"
+version: "1.0"
+minGameVersion: "140.4"
+dependencies: [ ]
+hidden: false
